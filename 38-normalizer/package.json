@@ -1,0 +1,14 @@
+{
+  "name": "38-normalizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/lang-es": "^4.6.0"
+  }
+}
