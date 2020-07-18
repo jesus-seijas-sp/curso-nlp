@@ -1,0 +1,16 @@
+{
+  "name": "39-tokenizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/lang-en": "^4.6.0",
+    "@nlpjs/lang-es": "^4.6.0",
+    "natural": "^2.1.5"
+  }
+}

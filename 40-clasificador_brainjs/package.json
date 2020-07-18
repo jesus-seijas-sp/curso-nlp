@@ -1,0 +1,15 @@
+{
+  "name": "40-clasificador_brainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/lang-es": "^4.6.0",
+    "brain.js": "^2.0.0-beta.1"
+  }
+}
