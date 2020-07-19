@@ -1,0 +1,36 @@
+{
+  "name": "Corpus Mini",
+  "locale": "es-ES",
+  "data": [
+    {
+      "intent": "programador",
+      "utterances": [
+        "¿Quién es tu programador?",
+        "¿Quién te ha programado?"
+      ],
+      "tests": [
+        "Dime tu programador"
+      ]
+    },
+    {
+      "intent": "jefe",
+      "utterances": [
+        "¿Quién es tu jefe?",
+        "¿Quién te manda?"
+      ],
+      "tests": [
+        "¿Quién manda sobre ti?"
+      ]
+    },
+    {
+      "intent": "saludo",
+      "utterances": [
+        "hola",
+        "buenos días"
+      ],
+      "tests": [
+        "muy buenos días"
+      ]
+    }
+  ]
+}
