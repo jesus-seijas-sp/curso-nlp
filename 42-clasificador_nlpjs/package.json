@@ -1,0 +1,15 @@
+{
+  "name": "42-clasificador_nlpjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/lang-es": "^4.6.0",
+    "@nlpjs/neural": "^4.7.4"
+  }
+}
