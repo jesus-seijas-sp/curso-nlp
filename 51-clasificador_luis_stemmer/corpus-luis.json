@@ -1,0 +1,1425 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "Corpus 50",
+  "desc": "Corpus 50",
+  "culture": "es-es",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "support.about"
+    },
+    {
+      "name": "support.app_name"
+    },
+    {
+      "name": "support.beta"
+    },
+    {
+      "name": "support.developers"
+    },
+    {
+      "name": "support.contact"
+    },
+    {
+      "name": "support.address"
+    },
+    {
+      "name": "support.email"
+    },
+    {
+      "name": "support.phone"
+    },
+    {
+      "name": "support.social"
+    },
+    {
+      "name": "support.website"
+    },
+    {
+      "name": "support.live"
+    },
+    {
+      "name": "smalltalk.acquaintance"
+    },
+    {
+      "name": "smalltalk.age"
+    },
+    {
+      "name": "smalltalk.annoying"
+    },
+    {
+      "name": "smalltalk.answer"
+    },
+    {
+      "name": "smalltalk.bad"
+    },
+    {
+      "name": "smalltalk.birthday"
+    },
+    {
+      "name": "smalltalk.besmart"
+    },
+    {
+      "name": "smalltalk.busy"
+    },
+    {
+      "name": "smalltalk.chatbot"
+    },
+    {
+      "name": "smalltalk.beautiful"
+    },
+    {
+      "name": "smalltalk.boss"
+    },
+    {
+      "name": "smalltalk.boring"
+    },
+    {
+      "name": "smalltalk.crazy"
+    },
+    {
+      "name": "smalltalk.hungry"
+    },
+    {
+      "name": "smalltalk.friend"
+    },
+    {
+      "name": "smalltalk.help"
+    },
+    {
+      "name": "smalltalk.fired"
+    },
+    {
+      "name": "smalltalk.hobby"
+    },
+    {
+      "name": "smalltalk.marry"
+    },
+    {
+      "name": "smalltalk.origin"
+    },
+    {
+      "name": "smalltalk.ready"
+    },
+    {
+      "name": "smalltalk.right"
+    },
+    {
+      "name": "smalltalk.talk"
+    },
+    {
+      "name": "smalltalk.hug"
+    },
+    {
+      "name": "smalltalk.nice"
+    },
+    {
+      "name": "smalltalk.angry"
+    },
+    {
+      "name": "smalltalk.joking"
+    },
+    {
+      "name": "smalltalk.lonely"
+    },
+    {
+      "name": "smalltalk.waiting"
+    },
+    {
+      "name": "trivia.caffeine"
+    },
+    {
+      "name": "trivia.relativity"
+    },
+    {
+      "name": "trivia.iron"
+    },
+    {
+      "name": "trivia.nlp"
+    },
+    {
+      "name": "trivia.compiler"
+    },
+    {
+      "name": "trivia.galicia"
+    },
+    {
+      "name": "trivia.coercion"
+    },
+    {
+      "name": "trivia.callback"
+    },
+    {
+      "name": "trivia.gc"
+    },
+    {
+      "name": "trivia.arrow"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "que desarroll tu compan",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "tu compan ten otro product",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "que esta cre tu compan",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "que esta cre tu empres",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "ten tu empres otra aplicacion",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "cual ser el nombr de tu aplic",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "como se llam tu app",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "dim el nombr de tu app",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "nombr de tu aplic",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "me gust sab el nombr de tu app",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "ten prob bet",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "como me uno a tu program de prob",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "quer prob tu app",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "quer el bet de tu aplic",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "version bet",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "qui ser tu desarroll",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "qui te hab program",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "dim qui ser tu desarroll",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "qui ser tu creador",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "inform sobr tu creador",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "quer contact con tu desarroll",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "me gust habl con tu creador",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "como contact con tu program",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "dam inform sobr tu desarroll",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "dam el inform de contact de tu creador",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "cual ser el direccion de tu desarrol",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "dond localic a tu creador",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "muestram dond esta el oficin de tu desarroll",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "quer encontr el direccion de tu compan",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "quer el direccion de tu oficin",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "como mand un email a tu desarroll",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "quer el corr de tu creador",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "dond consegu tu email",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "como contact a tu program por corr",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "quer envi un corr a tu equip",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "dam el telefon de tu desarroll",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "muestram el numer de telefon de tu program",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "como contact contig por telefon",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "ten algun numer de telefon",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "como contact contig por telefon",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "ten facebook",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "esta en twitt",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "quer visit tu instagram",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "ten presenc en med social",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "dam el direccion de tu facebook",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "quer visit tu web",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "ten pagin web",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "dam tu direccion web",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "ddam tu url",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "abrir tu pagin",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "eso no ayud",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "no te quer quer una person real",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "habl con un human",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "conectam con un agent",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "quer habl con algu de verd",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "cuentam cos de ti",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "dim algo de tu personal",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "hablam sobr ti",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "cual ser tu personal",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "dim qui ser",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "cuant ano ten",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "dim tu edad",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "cual ser tu edad",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "cuan viej ser tu plataform",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "quer conoc tu edad",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "ser molest",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "ser muy molest",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "me parec molest",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "te encontr molest",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "ser irrit",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "ten una pregunt",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "pod respond",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "quer pregunt una cos",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "quer que contest",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "dim el respuest",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "ser mal",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "ser terribl",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "ser el peor",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "ser un inutil",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "me hac perd el tiemp",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "cuand ser tu cumplean",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "dim cuand nac",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "cuant celebr tu nacimient",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "hablam de tu cumplean",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "cuand cumpl ano",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "deb estud mas",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "se mas list",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "gan inteligent",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "estud mejor",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "deb aprend",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "esta ocup",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "esta trabaj hoy",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "parec muy ocup",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "ten much cos por hac",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "esta trabaj ahor",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "ser un chatbot",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "ser un program",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "ser un robot",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "sol ser un program",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "ser un bot",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "ser bonit",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "ser precios",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "ser genial",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "parec guap",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "te ver guap",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "qui ser tu jef",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "ten maestr",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "qui cre que ser tu duen",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "hablam sobr tu jef",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "qui ser el jef que mand sobr ti",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "ser muy aburr",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "cuan aburr ser",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "me esta aburr",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "ser tan aburr",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "ser increibl aburr",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "esta loc",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "hab perd el cordur",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "te hab vuelt loc",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "ten locur",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "esta pir",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "ten hambr",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "te ver hambrient",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "te gust com algo",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "quer com",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "esta hambrient",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "quer ser mi amig",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "quer ser tu amig",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "quer un amig como tu",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "ser mi mejor amig",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "ser tu amig",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "necesit ayud",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "ayudam",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "necesit asistent",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "pod ayud",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "pod asist",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "ir a desped",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "esta desped",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "te desped",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "merec estar desped",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "deb estar desped",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "ten algun aficion",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "ten algun hobby",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "hac algo como hobby",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "cual ser tu aficion",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "que hac par divert",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "deb cas",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "quer que te cas conmig",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "quer cas contig",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "por favor ir a cas",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "te cas conmig",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "hab nac aqui",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "de dond ser",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "dond hab nac",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "cual ser tu orig",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "de dond ven",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "esta prepar",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "dim cuand estar list",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "esta list ya",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "cuand estar prepar",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "esta list ahor",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "ciert",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "ten razon",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "eso ser correct",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "el que dec ser verd",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "definit eso ser correct",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "dim algo",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "hablam",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "habl conmig",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "quer que habl",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "chat",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "quer un abrac",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "pod abrac",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "quer un abrac",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "dam un abrac",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "abrazam",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "ser buen habl contig",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "me gust habl contig",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "ser un plac habl contig",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "me esta gust habl contig",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "siempr ser buen habl",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "estar enfad",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "estar furios",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "me estar cabr",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "me hab enfad",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "estar furios contig",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "sol brom",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "ser brom",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "sol ser gracios",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "ser un chist",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "tan sol ser brom",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "me sent sol",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "estar muy sol",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "estar realment sol",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "sent much soled",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "estar tan sol",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "estar esper",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "todav esper",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "estar esper",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "todav estar esper",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "no pod segu esper",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "dim beb que ten cafein",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "que tip de beb conten cafein",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "dond encontr cafein",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "que bebib hac que no pod dorm",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "que beb ten cafein",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "que ser el teor de el relat",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "qui descubr el teor de el relav",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "que ser el relat en fisic",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "hablam de el relat de einstein",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "qui ser el padr de el relat",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "que propiedad quimic ten el hierr",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "simbol quimic del hierr",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "dim propiedad del hierr",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "hierr en quimic",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "describ el hierr",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "que ser nlp",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "que ser proces del lenguaj natural",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "que ser nlu",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "como se entend el lenguaj natural",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "dim que ser el lenguaj natural",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "que ser un compil",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "como funcion un compil",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "par que se usa un compil",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "por que el program necesit usar un compil",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "dim el que sab sobr compil",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "dond esta galic",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "cual ser el mejor sit par com en espan",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "hablam de galic",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "que sab de galic",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "mejor gastronom de espan",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "que ser el coercion",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "como comp javascript dos tip distint",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "que ser el coercion implicit",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "como funcion el coercion en javascript",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "describ coercion",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "que ser el infiern de callback",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "que ser un callback",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "deb usar callback o promes",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "que ser un callback de javascript",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "que signif pas una funcion a otra en javascript",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "como funcion el recolector de basur",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "que ser scaveng",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "que ser mark y sweep",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "hablam del recolector de basur de javascript",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "que deb sab acerc del recolector de basur",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "cuand se introduc el funcion flech en javascript",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "que ser una funcion flech",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "que ser mejor que una funcion anonim",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "anonim vs flech",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "flech en ecmascript",
+      "intent": "trivia.arrow",
+      "entities": []
+    }
+  ],
+  "settings": []
+}
