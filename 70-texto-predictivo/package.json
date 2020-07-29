@@ -1,0 +1,14 @@
+{
+  "name": "70-texto-predictivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/utils": "^4.9.0"
+  }
+}
