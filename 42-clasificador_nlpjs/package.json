@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nlpjs/lang-es": "^4.6.0",
-    "@nlpjs/neural": "^4.7.4"
+    "@nlpjs/lang-es": "^4.9.3",
+    "@nlpjs/neural": "^4.9.3"
   }
 }

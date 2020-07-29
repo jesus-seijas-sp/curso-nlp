@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nlpjs/utils": "^4.8.2"
+    "@nlpjs/utils": "^4.9.0"
   }
 }

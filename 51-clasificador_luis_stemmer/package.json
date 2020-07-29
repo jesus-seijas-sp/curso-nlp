@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nlpjs/lang-es": "^4.6.0",
+    "@nlpjs/lang-es": "^4.9.3",
     "@nlpjs/nlu-luis": "^4.8.1",
     "dotenv": "^8.2.0"
   }
