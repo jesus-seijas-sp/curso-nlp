@@ -11,6 +11,6 @@
   "dependencies": {
     "@nlpjs/lang-en": "^4.9.3",
     "@nlpjs/lang-es": "^4.9.3",
-    "natural": "^2.1.5"
+    "natural": "^2.4.5"
   }
 }
